@@ -1,1 +1,1 @@
-link: https://gsc6610.github.io/DiceGame/
+link: https://stargsc.github.io/DiceGame/
